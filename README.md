@@ -1,5 +1,5 @@
-# M&M JAVA GAME
-This game is made while learning some basics of Java during class...
+# Candy JAVA GAME
+This game is made while learning some basics of Java during class.
 
 
 ## License
